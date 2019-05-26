@@ -43,11 +43,23 @@ flutter:
 
   # To add assets to your application, add an assets section, like this:
   assets:
-   - images/run.jpg
-   - images/rope-jumps.jpg
-   - images/Push-ups.jpg
-   - images/Lat-Rows.jpg
-
+   - images/running.png
+   - images/jumping-rope.png
+   - images/ping-pong.png
+   - images/golf.png
+   - images/football.png
+   - images/cycling.png
+   - images/bowling.png
+   - images/swimming-pool.png
+   - images/tennis.png
+   - images/volleyball.png
+   - images/basketball.png
+   - images/boxing.png
+   - images/climbing.png
+   - images/karate.png
+   - images/walking.png
+   - images/meditation.png
+   
   # An image asset can refer to one or more resolution-specific "variants", see
   # https://flutter.io/assets-and-images/#resolution-aware.
 

@@ -15,7 +15,7 @@ class MyApp extends StatelessWidget {
       ),
       initialRoute: "/",
       routes: {
-        "/": (context) => ExList(),
+        "/": (context) => ExcerciseBook(),
         "/exInfo": (context) => ExInfo(),
       },
     );
